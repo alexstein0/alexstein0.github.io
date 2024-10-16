@@ -1,8 +1,9 @@
 ---
 layout: about
-title: about
+title: About
+nav: false
 permalink: /
-subtitle: CS PhD Student at University of Maryland, College Park
+# subtitle: CS PhD Student at University of Maryland, College Park
 
 profile:
   align: right
@@ -15,12 +16,18 @@ profile:
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+<!-- My research centers on empirical analysis in various machine learning domains, with a particular emphasis on understanding and analyzing large language models (LLMs) and other transformer-based architectures.  -->
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD candidate in Computer Science at the [University of Maryland, College Park](https://www.umd.edu/), advised by Professors [Tom Goldstein](https://www.cs.umd.edu/~tomg/) and [John Dickerson](https://jpdickerson.com/). 
+My research interests cover a range of machine learning topics, including but not limited to: LLM reasoning, adversarial attacks, and efficient implementation of transformer architectures. 
+I am especially interested in exploring the extent to which LLMs understand context, reason strategically, and generalize beyond their training data.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+During the summer of 2024, I was an Applied Research intern at Capital One as part of the Behavior Modeling team where I explored using transformers for event prediction.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before joining UMD, I was a Vice President in Algorithmic Research and Development at RBC Capital Markets in New York City, where I focused on enhancing the intelligence and infrastructure behind the Equities division’s proprietary execution platform. 
+This role gave me hands-on experience with applying problem solving skills to real-world production systems.
+
+I hold a Bachelors of Science in Computer Science and Operations Research from Columbia University. For more details, you can view my [CV](/assets/pdf/Resume.pdf).

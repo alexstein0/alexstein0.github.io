@@ -1,12 +1,7 @@
-github_users:
-  - torvalds
-  - alshedivat
+# github_users:
+#   - alexstein0
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - alexstein0/event_prediction_step
+  - alexstein0/neural-auctions
+
