@@ -14,7 +14,7 @@ group :jekyll_plugins do
     gem 'jekyll-paginate-v2'
     gem 'jekyll-scholar'
     gem 'jekyll-sitemap'
-    gem 'jekyll-toc'
+    # gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jekyll-redirect-from'
     gem 'jemoji'
